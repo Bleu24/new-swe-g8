@@ -1,5 +1,6 @@
 /* Imports */
 @import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
 /********** Template CSS **********/
 :root {
@@ -46,7 +47,7 @@
 
 /*** Button ***/
 .btn {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Bungee', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     transition: .5s;
@@ -132,7 +133,7 @@
     }
 
     .navbar-dark .navbar-brand img {
-        max-height: 45px;
+        max-height: 60px;
     }
 }
 
