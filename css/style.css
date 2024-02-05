@@ -109,7 +109,7 @@
 }
 
 .sticky-top.navbar-dark .navbar-brand img {
-    max-height: 45px;
+    max-height: 80px;
 }
 
 @media (max-width: 991.98px) {
@@ -145,7 +145,7 @@
     
     .sticky-top.navbar-dark {
         position: fixed;
-        background: var(--dark) !important;
+        background: #2b220f !important;
     }
 }
 
